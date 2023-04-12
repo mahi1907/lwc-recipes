@@ -12,7 +12,8 @@
             "package": "lwcRecipes-mahi",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
-            "default": false
+            "default": false, 
+            "dependencies" : [ { "subscriberPackageVersionId" : "04t5g0000002dqyAAA"}]
         }
     ],
     "namespace": "",
